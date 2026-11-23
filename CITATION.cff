@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the accompanying manuscript."
+type: software
+title: "Molecular PET 6mm reprocessing, partial-volume correction and Centiloid harmonization reclassify Alzheimer's trial eligibility and require visual-read threshold recalibration"
+version: "1.0.0"
+date-released: "2026-11-23"
+license: MIT
+repository-code: "https://github.com/yuzhounh/adni-pet-pipeline-drift"
+authors:
+  - family-names: Wang
+    given-names: Jing
+    orcid: "https://orcid.org/0000-0002-3286-073X"
+    affiliation: "School of Computer and Information Technology, Xinyang Normal University, Xinyang, China"
+    email: "wangjing@xynu.edu.cn"
+keywords:
+  - Alzheimer's disease
+  - ADNI
+  - amyloid PET
+  - tau PET
+  - Centiloid
+  - partial-volume correction
+  - visual read
+  - AT staging
+  - reproducibility

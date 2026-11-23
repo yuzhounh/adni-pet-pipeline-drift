@@ -1,0 +1,29 @@
+# Local ADNI restricted data and generated outputs
+data/raw/
+data/derived/
+outputs/
+*.csv
+*.parquet
+*.xlsx
+*.xls
+*.rda
+*.rdata
+*.npz
+*.npy
+*.pkl
+*.joblib
+*.pdf
+*.png
+
+# Python caches and environments
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.venv/
+venv/
+.env
+.env.*
+.DS_Store
+Thumbs.db
